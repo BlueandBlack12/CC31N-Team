@@ -11,7 +11,7 @@
         "projectName": "CC31N-TeamWP",
         "projectPath": "C:\\Users\\Admin\\source\\repos\\CC31N-TeamWP\\CC31N-TeamWP.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\CC31N-TeamWP\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\CC31N-TeamWP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
