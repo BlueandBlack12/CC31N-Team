@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using Engine.ViewModel;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -16,8 +17,11 @@ namespace CC31N_TeamWP;
 /// </summary>
 public partial class MainWindow : Window
 {
+    private GameProgress _gameProgress;
     public MainWindow()
     {
         InitializeComponent();
+        _gameProgress = new GameProgress();
+        DataContext = _gameProgress;
     }
 }

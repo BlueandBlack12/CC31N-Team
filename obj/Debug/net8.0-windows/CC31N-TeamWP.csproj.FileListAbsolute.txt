@@ -18,3 +18,8 @@ C:\Users\Admin\source\repos\CC31N-TeamWP\obj\Debug\net8.0-windows\refint\CC31N-T
 C:\Users\Admin\source\repos\CC31N-TeamWP\obj\Debug\net8.0-windows\CC31N-TeamWP.pdb
 C:\Users\Admin\source\repos\CC31N-TeamWP\obj\Debug\net8.0-windows\CC31N-TeamWP.genruntimeconfig.cache
 C:\Users\Admin\source\repos\CC31N-TeamWP\obj\Debug\net8.0-windows\ref\CC31N-TeamWP.dll
+C:\Users\Admin\source\repos\CC31N-TeamWP\obj\Debug\net8.0-windows\CC31N-TeamWP.sourcelink.json
+C:\Users\Admin\source\repos\CC31N-TeamWP\bin\Debug\net8.0-windows\Engine.dll
+C:\Users\Admin\source\repos\CC31N-TeamWP\bin\Debug\net8.0-windows\Engine.pdb
+C:\Users\Admin\source\repos\CC31N-TeamWP\obj\Debug\net8.0-windows\CC31N-TeamWP.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CC31N-TeamWP\obj\Debug\net8.0-windows\CC31N-Te.053EC2D0.Up2Date
